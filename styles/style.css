@@ -9,10 +9,6 @@ html {
   align-items: center;
 }
 
-.header__menu {
-  
-}
-
 .header__links-list {
   display: flex;
   gap: 32px;
